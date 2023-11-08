@@ -1,0 +1,16 @@
+header {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  border-bottom: 1px solid grey;
+}
+
+img {
+    width: 50px;
+}
+
+input {
+    width: 700px
+}

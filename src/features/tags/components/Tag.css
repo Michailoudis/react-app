@@ -1,0 +1,12 @@
+#tag {
+    display: flex;
+    flex-direction: column;
+    flex: 20%;
+    border: 1px solid grey;
+    height: 100px;
+    padding: 0px 10px;
+
+    .tag-info {
+        display: flex;
+    }
+}

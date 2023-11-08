@@ -1,0 +1,32 @@
+.question-item {
+    display: flex;
+    align-items: baseline;
+    border-bottom: 1px solid grey;
+    padding-bottom: 10px;
+}
+
+.question-item-left-side {
+    width: 20%;
+}
+
+.question-details {
+    display: flex;
+    flex-direction: column;
+}
+
+.question-item-footer {
+    display: flex;
+}
+
+.tags {
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+    gap: 20px;
+}
+
+.user {
+    display: flex;
+    width: 50%;
+    justify-content: end;
+}
